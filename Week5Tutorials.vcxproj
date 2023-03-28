@@ -135,6 +135,7 @@
   <ItemGroup>
     <ClCompile Include="DataWrapper.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SimpleForwardIterator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data_1.txt" />
